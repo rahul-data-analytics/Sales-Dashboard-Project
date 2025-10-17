@@ -19,10 +19,10 @@ The dataset (`train.csv`) includes sales transactions across multiple categories
 - GitHub for Version Control
 
 ## Folder Structure
-Data/ → raw and processed datasets
-Reports/ → Power BI files
-Screenshots/ → proof of cleaning steps
-Docs/ → documentation
+- Data/ → raw and processed datasets
+- Reports/ → Power BI files
+- Screenshots/ → proof of cleaning steps
+- Docs/ → documentation
 
 
 ##  Next Step
